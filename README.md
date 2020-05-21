@@ -20,7 +20,7 @@ Ce programme permettra les choses suivantes :
 
 * La mise a jour de la BDD (60 requetes par minute) doit se faire pendant que l'utilisateur utilise le programme, sans géner son utilisation (threading, voir partie "threading").
 
-* La fin de programme doit se faire proprement. Pas de crash dans le thread, pas de fermeture si la BDD n'a pas été close(), etc...
+* La fin de programme doit se faire proprement. Pas de crash dans le thread, pas de fermeture si la BDD n'a pas été close(), etc.
 
 * Utilisation d'une interface graphique.
 
@@ -43,7 +43,7 @@ Pour utiliser le programme, il vous faudra copier/coller, installer les fichiers
 
 * BaseDeDonnee (permet la gestion de la BDD)
 
-* Controle (permet de gerer les inputs utilisateurs et d'organiser les autres classes
+* Controle (permet de gerer les inputs utilisateurs et d'organiser les autres classes)
 
 * Affichage (interface graphique)
 
